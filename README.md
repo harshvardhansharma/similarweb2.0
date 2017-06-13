@@ -35,7 +35,7 @@ visit = client.desktop_visit('google.com', '2017-03', '2017-04', 'daily')
 5. Create new Pull Request
 
 ## Copyright
-Copyright (c) 2014 [Harsh Vardhan Sharma](mailto:bonnyharsh1993@gmail.com).
+Copyright (c) 2017 [Harsh Vardhan Sharma](mailto:bonnyharsh1993@gmail.com).
 See [LICENSE][license] for details.
 
 [license]:   LICENSE.md
