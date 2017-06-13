@@ -1,17 +1,5 @@
 module Similarweb
   class Client
-    include AlsoVisited
-    include EstimatedVisits
-    include SimilarSites
-    include CategoryRank
-    include Destinations
-    include Keywords
-    include SocialReferrals
-    include Category
-    include Engagement
-    include Referrals
-    include Tags
-    include AllReferrals
     include DesktopTraffic::Sources
     include DesktopTraffic::SearchKeyword
     include Traffic::BounceRate

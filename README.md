@@ -1,6 +1,6 @@
 # Similarweb2.0
 
-Ruby client for [SimilarWeb API](https://developer.similarweb.com/)
+Latest Ruby client for [SimilarWeb API](https://developer.similarweb.com/)
 
 ## Installation
 
