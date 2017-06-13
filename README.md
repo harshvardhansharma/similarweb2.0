@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/harshvardhansharma/similarweb2.0.svg?style=svg)](https://circleci.com/gh/harshvardhansharma/similarweb2.0)
+
 # Similarweb2.0
 
 Latest Ruby client for [SimilarWeb API](https://developer.similarweb.com/)
